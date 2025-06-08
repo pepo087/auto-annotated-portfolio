@@ -4,7 +4,7 @@ title: Home
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
-  url: /images/contact.jpg
+  url: /images/post-4.png
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
